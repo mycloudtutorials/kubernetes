@@ -20,5 +20,3 @@ docker run -d --name=result --link db:db -p 5001:80 dockersamples/examplevotinga
 docker run -d --name=worker --link db:db --link redis:redis dockersamples/worker
 
 
-
-
