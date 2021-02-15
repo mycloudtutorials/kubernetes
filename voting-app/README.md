@@ -18,8 +18,8 @@ This is a simple **multi tiered** voting application that uses different coding 
 - A **Postgres** database backed by docker volume
 - A **Node JS** webapp polling the database and showing the votes in real-time
 
-![Architecture diagram](architecture.png)
 
+![Architecture diagram](VotingAppArchitecture.png)
 
 
 **Our Task**
